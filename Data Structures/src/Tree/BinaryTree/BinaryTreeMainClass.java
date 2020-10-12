@@ -1,18 +1,18 @@
 package Tree.BinaryTree;
 
-class Node{
+class TreeNode {
     int data;
-    Node left;
-    Node right;
+    TreeNode left;
+    TreeNode right;
 }
 class BinaryTree{
-    public Node returnNewNode(int data){
-        Node node = new Node();
+    public TreeNode returnNewNode(int data){
+        TreeNode node = new TreeNode();
         node.data = data;
         return node;
     }
 
-    public void inOrder(Node node){
+    public void inOrder(TreeNode node){
         if(node == null){
             return;
         }
@@ -20,7 +20,7 @@ class BinaryTree{
         System.out.print(node.data+" ");
         inOrder(node.right);
     }
-    public void preOrder(Node node){
+    public void preOrder(TreeNode node){
         if(node == null){
             return;
         }
@@ -28,7 +28,7 @@ class BinaryTree{
         preOrder(node.left);
         preOrder(node.right);
     }
-    public void postOrder(Node node){
+    public void postOrder(TreeNode node){
         if(node == null){
             return;
         }
@@ -40,7 +40,7 @@ class BinaryTree{
 public class BinaryTreeMainClass {
     public static void main(String[] args) {
         BinaryTree tree = new BinaryTree();
-        Node root = tree.returnNewNode(2);
+        TreeNode root = tree.returnNewNode(2);
         root.left = tree.returnNewNode(7);
         root.right = tree.returnNewNode(5);
         root.left.left = tree.returnNewNode(2);

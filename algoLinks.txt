@@ -1,0 +1,107 @@
+1. Diagonal Difference - https://www.youtube.com/watch?v=fy19Z4BG-wE&list=PLZkKbIOd6ghXPsskF-g1vEA28qeY7Ro_d&index=5
+
+2. Prefix Sum algorithm - https://www.youtube.com/watch?v=scD312I7kkE
+                          https://www.youtube.com/watch?v=pVS3yhlzrlQ
+                          https://www.youtube.com/watch?v=5fSsn5lytOw
+
+3. Repeate String HAckerrank - https://www.youtube.com/watch?v=d5xLkTvJDWY&list=PLSIpQf0NbcCltzNFrOJkQ4J4AAjW3TSmA
+
+4. Product Of Array Except Self - https://www.youtube.com/watch?v=khTiTSZ5QZY&t=111s
+
+5. Sorted Squared Array - https://www.youtube.com/watch?v=4eWKHLSRHPY
+
+6. First Non repeating Character in a String - https://www.youtube.com/watch?v=5co5Gvp_-S0&list=PLU_sdQYzUj2mE8quVfDEGnupdS7XuU2YW
+
+7. Find All Duplicates in an Array - https://www.youtube.com/watch?v=aMsSF1Il3IY&t=512s
+
+8. Kadane's Algorithm - Maximum Sum Subarray - https://www.youtube.com/watch?v=YxuK6A3SvTs
+                                                                                                https://www.youtube.com/watch?v=jnoVtCKECmQ&t=2s
+                                                                                                https://www.youtube.com/watch?v=MSkk49c0U04
+
+9. HackerRank Java - Java Subarray Solution Explained(CountTotalNegativeSubArraySum) - https://www.youtube.com/watch?v=aaauPH-OiCI
+
+10. Binary Search Algorithm - https://www.youtube.com/watch?v=7iE5xNOJET0
+
+11. First and Last Position in Sorted Array (LeetCode) - https://www.youtube.com/watch?v=EwggFsMTxu8&t=806s
+                                                                                                         https://www.youtube.com/watch?v=bU-q1OJ0KWw&t=202s
+
+12. Max and Min in an array - https://www.youtube.com/watch?v=rxJRJV3eEaI
+
+                               
+13. Rearrange array alternately  -  https://www.youtube.com/watch?v=ZRoVWxBngX0&list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6&index=27
+
+14. Reverse words in a string - [[[ Split the string on the basis of ' ' and store it in an Array and reverse print it ]]]
+
+15. Find missing number in an array  -  [[2nd approach]] https://www.youtube.com/watch?v=6KHW7ZQwtCA&list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6&index=24 
+
+16. Two Sum Problem | Leetcode - https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma
+
+17.  Check if two strings are anagrams  -  https://www.youtube.com/watch?v=Ltdj-wECPw8
+                                                                              https://www.youtube.com/watch?v=QZmh8-Auqo8
+
+18. Print all Palindromic Substrings--->naive(O(n^2))   -  https://www.youtube.com/watch?v=_jM3iMT4k7g&t=224s
+
+
+19. Sliding Window Technique - Algorithmic Mental Models -  https://www.youtube.com/watch?v=EHCGAZBbB88&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj
+			                                                         https://www.youtube.com/watch?v=MK-NZ4hN7rs
+
+20. Sliding Window Technique | Maximum Size SubArray Of Size K   -   https://www.youtube.com/watch?v=__guhvzO540&t=833s
+
+21. Sliding Window Technique | Longest Substring Without Repeating Characters  -  https://www.youtube.com/watch?v=4i6-9IzQHwo
+
+22. Subarray with given sum give Index pos  -  https://www.youtube.com/watch?v=Ofl4KgFhLsM&list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6&index=21
+
+23. Number of Subarrays with Sum Equals K | leetcode 560  -  https://www.youtube.com/watch?v=MHocw0bP1rA
+                                                                                                                       https://www.youtube.com/watch?v=AmlVSNBHzJg&t=232s
+
+24.  Longest Continuous Increasing Subsequence |  Sliding Window Approach  -  https://www.youtube.com/watch?v=jSvoE-_Yhs4
+
+
+
+25. Move Zeros  -  https://www.youtube.com/watch?v=PNJoyRaIW7U&list=PLEJXowNB4kPwCPVjDv6KsAsThtDOCQUok&index=4
+
+26. Middle of a Linked List  -  https://www.youtube.com/watch?v=_cl3O4FBZh8&list=PLEJXowNB4kPwCPVjDv6KsAsThtDOCQUok&index=8
+                                                       <!---CHECK PEPCODING LINKED LIST PLAYLIST--->
+
+27. Sort an array of 0's 1's & 2's [[Dutch National Flag Algorithm]]  -  https://www.youtube.com/watch?v=oaVa-9wmpns
+
+29. Sort Characters By Frequency  -  https://www.youtube.com/watch?v=J6t-mIhUqrc
+
+30. Longest Consecutive Sequence  -  https://www.youtube.com/watch?v=YWXbu5uyGXs
+
+31. Matrix Diagonal Sum  -  https://www.youtube.com/watch?v=5yF2HkQXuSo
+
+32. LeetCode Valid Palindrome  -  https://www.youtube.com/watch?v=rYyn9Vc-dBQ&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=24
+
+33. Robot Return To Origin  -  https://www.youtube.com/watch?v=lk5L_GsZFSw&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=27
+
+
+
+
+34. MERGE TWO SORTED LISTS (LeetCode) - https://www.youtube.com/watch?v=K63Mjf-H0B0
+
+35. Odd Even Linked List (LeetCode)  -  https://www.youtube.com/watch?v=YE9ggKeHeK0
+
+36. Group Anagrams (LeetCode)  -  https://www.youtube.com/watch?v=ptgykfAEax8
+                                                                   https://www.youtube.com/watch?v=0I6IL3TnIZs
+
+37. Single Number (LeetCode)  -  https://www.youtube.com/watch?v=krgK0UlfNYY&list=PLEJXowNB4kPwCPVjDv6KsAsThtDOCQUok
+
+38. Single Number II (LeetCode)  -  https://www.youtube.com/watch?v=cOFAmaMBVps
+
+39. Single Number III (LeetCode)  -  https://www.youtube.com/watch?v=L-EaPf5tD5A
+
+40. Reconstruct Itinerary  -  https://www.youtube.com/watch?v=4mi2rO4D_Xk
+
+41. 
+                                                      
+
+                                                                                                                                     
+
+
+
+
+
+
+
+
