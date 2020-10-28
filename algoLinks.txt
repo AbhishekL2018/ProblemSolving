@@ -52,7 +52,8 @@
 22. Subarray with given sum give Index pos  -  https://www.youtube.com/watch?v=Ofl4KgFhLsM&list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6&index=21
 
 23. Number of Subarrays with Sum Equals K | leetcode 560  -  https://www.youtube.com/watch?v=MHocw0bP1rA
-                                                                                                                       https://www.youtube.com/watch?v=AmlVSNBHzJg&t=232s
+                                                                                                                        https://www.youtube.com/watch?v=AmlVSNBHzJg&t=232s
+                                                                                                                        https://www.youtube.com/watch?v=20v8zSo2v18&t=255s
 
 24.  Longest Continuous Increasing Subsequence |  Sliding Window Approach  -  https://www.youtube.com/watch?v=jSvoE-_Yhs4
 
@@ -93,7 +94,17 @@
 
 40. Reconstruct Itinerary  -  https://www.youtube.com/watch?v=4mi2rO4D_Xk
 
-41. 
+41. Check If two string permutation of each other
+
+42. Find leaders in an array  -  https://www.youtube.com/watch?v=SnU0xiQ_jJ0&list=PLEJXowNB4kPxQIN2dCUAnQ_92HIziG4x6&index=31
+
+43. Count Subarrays with Sum Divisible by K  -  https://www.youtube.com/watch?v=QM0klnvTQzk
+
+44. Longest Subarray with Sum Divisible by k  -  https://www.youtube.com/watch?v=GrV3MTR_Uk0
+
+45. Container With Most Water  -  https://www.youtube.com/watch?v=ZHQg07n_tbg
+
+46. 
                                                       
 
                                                                                                                                      
