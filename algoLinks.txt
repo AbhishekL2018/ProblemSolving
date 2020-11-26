@@ -45,7 +45,7 @@
 19. Sliding Window Technique - Algorithmic Mental Models -  https://www.youtube.com/watch?v=EHCGAZBbB88&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj
 			                                                         https://www.youtube.com/watch?v=MK-NZ4hN7rs
 
-20. Sliding Window Technique | Maximum Size SubArray Of Size K   -   https://www.youtube.com/watch?v=__guhvzO540&t=833s
+20. Sliding Window Technique | Maximum Sum SubArray Of Size K   -   https://www.youtube.com/watch?v=__guhvzO540&t=833s
 
 21. Sliding Window Technique | Longest Substring Without Repeating Characters  -  https://www.youtube.com/watch?v=4i6-9IzQHwo
 
@@ -105,7 +105,8 @@
 45. Container With Most Water  -  https://www.youtube.com/watch?v=ZHQg07n_tbg
 
 46. Find First Duplicate  -  https://www.youtube.com/watch?v=XSdr_O-XVRQ&t=212s
-                                                      
+
+47. Find LongestSubarray By Given Sum  -  https://www.youtube.com/watch?v=XFPHg5KjHoo                              
 
                                                                                                                                      
 
