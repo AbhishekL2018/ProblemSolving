@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=zp2tqnpZiAU&list=PLVz2XdJiJQxw-jVLpBfVn2yqjvA1Ycceq&index=1
+
 1. Diagonal Difference - https://www.youtube.com/watch?v=fy19Z4BG-wE&list=PLZkKbIOd6ghXPsskF-g1vEA28qeY7Ro_d&index=5
 
 2. Prefix Sum algorithm - https://www.youtube.com/watch?v=scD312I7kkE

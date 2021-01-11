@@ -3,7 +3,7 @@ package LeetCodeHackerRank;
 public class FindLongestSubarrayBySum {
     public static void main(String[] args) {
         int[] result = FindLongestSubarrayBySum.findLongestSubArrayBySUm(
-                new int[]{1, 2, 3, 4, 5, 0, 0, 0, 6, 7, 8, 9, 10}, 15
+                new int[]{1, 2, 3, 4, 5, 0, 0, 0, 0, 0, 0, 6, 7, 8, 9, 10}, 15
         );
         for (Integer i : result) {
             System.out.print(i + " ");
@@ -16,7 +16,7 @@ public class FindLongestSubarrayBySum {
         int gap = 0;
         int sum = nums[right];
         int[] result = new int[2];
-        while (right < nums.length-1) {
+        while (right < nums.length - 1) {
             if (sum < k) {
                 right++;
                 sum += nums[right];
